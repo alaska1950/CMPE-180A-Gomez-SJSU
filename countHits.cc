@@ -40,3 +40,4 @@ int countHits (vector<Asteroid> a)
     }
   return vec.size ();
 }
+//
